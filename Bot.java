@@ -1,7 +1,7 @@
 import java.util.Scanner;
+
 public class Bot {
     public static void main(String[] args) {
-        //Crea el scanner
                 // Crea el scanner
                 Scanner scanner = new Scanner(System.in);
 
@@ -45,4 +45,5 @@ public class Bot {
                 scanner.close();
 
     }
+
 }
